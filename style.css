@@ -95,7 +95,8 @@ select {
   background: black;
   background-image: url("jwblack.jpg");
   background-attachment: fixed;
-  background-size: contain;
+  background-position: center center;
+  background-size: auto;
   background-repeat: no-repeat;
 }
 
