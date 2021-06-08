@@ -95,9 +95,7 @@ select {
   background: black;
   background-image: url("jwblack.jpg");
   background-attachment: fixed;
-  background-position: center center;
-  background-repeat: repeat-x;
-  background-size: 960px 350px;
+  background-size: cover;
 }
 
 .hero h1 {
